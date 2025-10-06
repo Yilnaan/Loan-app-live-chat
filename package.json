@@ -2,7 +2,7 @@
   "name": "loan-app-live-chat",
   "version": "1.0.0",
   "description": "A simple loan app with live chat feature",
-  "main": "server.js",
+  "main": "server2.js",
   "scripts": {
     "start": "node server.js"
   },
