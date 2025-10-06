@@ -1,0 +1,13 @@
+{
+  "name": "loan-app-live-chat",
+  "version": "1.0.0",
+  "description": "A simple loan app with live chat feature",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
